@@ -14,8 +14,6 @@ We have taken you key features of an Oil Painted picture into consideration whil
 Implemented By:
 --------------
 Sarath Chintalapudi
-Jyot Buch
-Paul Knysh
 ==================================================================
 
 Software Specifications:
